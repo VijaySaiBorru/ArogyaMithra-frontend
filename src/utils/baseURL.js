@@ -1,4 +1,4 @@
 const getBaseUrl = () => {
-    return "http://localhost:3000"
+    return "https://arogyamithra-backend-production.up.railway.app/"
 }
 export default getBaseUrl;
