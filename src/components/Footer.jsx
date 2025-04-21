@@ -27,7 +27,7 @@ function Footer() {
         <div>
           <h3 className="text-2xl font-semibold mb-2">Contact Us</h3>
           <ul className="space-y-2 text-sm text-gray-300">
-            <li className="flex items-center gap-2"><FaMapMarkerAlt className="text-blue-500" /> 123 Health St, Wellness City</li>
+            <li className="flex items-center gap-2"><FaMapMarkerAlt className="text-blue-500" /> #123, Main Road, Hyderabad, Telangana, India</li>
             <li className="flex items-center gap-2"><FaPhoneAlt className="text-blue-500" /> +1 234 567 8901</li>
             <li className="flex items-center gap-2"><FaEnvelope className="text-blue-500" /> info@arogyamithra.com</li>
           </ul>
